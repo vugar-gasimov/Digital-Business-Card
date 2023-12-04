@@ -7,11 +7,13 @@ import Interests from "./components/Interests";
 
 function App() {
   return (
-    <div className="container">
-      <Info />
-      <About />
-      <Interests />
-      <Footer />
+    <div className="background">
+      <div className="container">
+        <Info />
+        <About />
+        <Interests />
+        <Footer />
+      </div>
     </div>
   );
 }
