@@ -1,9 +1,9 @@
 import "./App.css";
-import About from "./components/About";
-import Footer from "./components/Footer";
+import About from "./About";
+import Footer from "./Footer";
 
-import Info from "./components/Info";
-import Interests from "./components/Interests";
+import Info from "./Info";
+import Interests from "./Interests";
 
 function App() {
   return (
